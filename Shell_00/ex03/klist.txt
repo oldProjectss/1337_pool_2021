@@ -1,0 +1,6 @@
+Credentials cache: API:2FC3F134-4D72-46E5-8714-79A33D53167A
+        Principal: icourr@1337.MA
+
+  Issued                Expires               Principal
+Jun 23 07:23:18 2021  Jun 23 17:23:18 2021  krbtgt/1337.MA@1337.MA
+Jun 23 07:23:21 2021  Jun 23 17:23:18 2021  HTTP/iscsi.1337.ma@1337.MA
